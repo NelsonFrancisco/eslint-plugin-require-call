@@ -8,6 +8,14 @@
     "eslint-plugin"
   ],
   "author": "NelsonFrancisco",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NelsonFrancisco/eslint-plugin-require-call.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NelsonFrancisco/eslint-plugin-require-call/issues"
+  },
+  "homepage": "https://github.com/NelsonFrancisco/eslint-plugin-require-call#readme",
   "main": "lib/index.js",
   "scripts": {
     "test": "mocha tests --recursive"
