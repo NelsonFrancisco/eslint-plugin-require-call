@@ -1,6 +1,6 @@
 # eslint-plugin-require-call
 
-ESLint plugin to help you with `require` function call
+ESLint plugin to help you remove the relative (`../`) and local (`./`) path clutter with `require` function call and `import` statements
 
 
 ## Installation

@@ -1,5 +1,5 @@
 /**
- * @fileoverview No relative paths in require
+ * @fileoverview No relative paths in 'require' and 'import'
  * @author NelsonFrancisco
  */
 'use strict'

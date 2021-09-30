@@ -1,7 +1,7 @@
 {
   "name": "eslint-plugin-require-call",
-  "version": "1.0.1",
-  "description": "Rules for 'require' function call",
+  "version": "2.0.0",
+  "description": "Rules for 'require' function call and 'import' statement",
   "keywords": [
     "eslint",
     "eslintplugin",
